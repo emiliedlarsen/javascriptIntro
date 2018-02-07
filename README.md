@@ -1,6 +1,6 @@
 # JavaScript Introduktion (2 lektioner)
 
-Nogle gode links
+### Nogle gode links
 
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 * [YouTube: Introduction to Gitkraken](https://www.youtube.com/watch?v=ZKkMwTeAij4)
