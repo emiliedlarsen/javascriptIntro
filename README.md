@@ -6,6 +6,8 @@
 
 ## ca. 12:30 (aftales med formiddagsunderviseren!)
 
+Hej med dig
+
 * Introduktion til JavaScript
 * Krav til Github aflevering
 
