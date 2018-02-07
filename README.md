@@ -1,12 +1,12 @@
 # JavaScript Introduktion (2 lektioner)
 
+Nogle gode links
+
 * [Understanding the Github Flow](https://guides.github.com/introduction/flow/)
 * [YouTube: Introduction to Gitkraken](https://www.youtube.com/watch?v=ZKkMwTeAij4)
 * [YouTube: Hvordan man kloner et repository](https://youtu.be/GkYZn7JgPoM)
 
 ## ca. 12:30 (aftales med formiddagsunderviseren!)
-
-Hej med dig
 
 * Introduktion til JavaScript
 * Krav til Github aflevering
